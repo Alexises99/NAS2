@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=main1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Metodo\ main\ que\ se\ encarga\ de\ pedir\ los\ parametros\ mencionados\ anteriormente\ y\ de\ ejecutar\ los\ metodos.\r\n
+comment2.params=Dia\ horas\ minutos\ segundos
+comment2.target=boolean\ comprobar(java.lang.String,\ int,\ int,\ int)
+comment2.text=\r\n\ El\ metodo\ comprobar\ con\ los\ 4\ parametros\ dados\ devuelve\ un\ Boolean\ que\ indica\ si\ los\ parametos\ son\ correctos\ o\ no.\r\n\ @param\ Dia\:\ un\ dia\ entre\ el\ Lunes\ y\ Domingo.\r\n\ @param\ Horas\:\ una\ hora.\r\n\ @param\ Minutos\:\ unos\ minutos.\r\n\ @param\ Segundos\:\ unos\ segundos.\r\n
+comment3.params=Dia\ horas\ minutos\ segundos
+comment3.target=void\ sumaSegundos(java.lang.String,\ int,\ int,\ int)
+comment3.text=\r\n\ El\ metodo\ para\ aumentar\ 10\ segundos\ con\ los\ 4\ parametros\ dados\ que\ lo\ va\ incrementado\ y\ emplea\ el\ metodo\ toString().\r\n\ @param\ Dia\:\ un\ dia\ entre\ el\ Lunes\ y\ Domingo.\r\n\ @param\ Horas\:\ una\ hora.\r\n\ @param\ Minutos\:\ unos\ minutos.\r\n\ @param\ Segundos\:\ unos\ segundos.\r\n
+comment4.params=Dia\ horas\ minutos\ segundos
+comment4.target=java.lang.String\ toString(java.lang.String,\ int,\ int,\ int)
+comment4.text=\r\n\ El\ metodo\ toString\ con\ los\ 4\ parametros\ dados\ devuelve\ un\ String\ que\ en\ un\ String\ s\ devuelve\ la\ hora\ en\ su\ formato\ Dia\ \ \ hh\:mm\:ss.\r\n\ @param\ Dia\:\ un\ dia\ entre\ el\ Lunes\ y\ Domingo.\r\n\ @param\ Horas\:\ una\ hora.\r\n\ @param\ Minutos\:\ unos\ minutos.\r\n\ @param\ Segundos\:\ unos\ segundos.\r\n
+numComments=5
